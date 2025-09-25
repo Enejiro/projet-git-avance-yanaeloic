@@ -5,3 +5,16 @@ func main: envoi vers la fonction "casse"
 func casse: boucle qui crÃ©e un kayou (24) et une libulle (99) puis renvoi vers la func couille()
 func les: sa fait r il se passera rien pacque youdie different de 5
 mouis
+
+## Version
+- v1.0
+
+## Fonctionnalités
+- Double(x)
+- Sum(a,b)
+
+## Utilisation
+- go mod init exemple
+- go build ./...
+- go test ./...
+
